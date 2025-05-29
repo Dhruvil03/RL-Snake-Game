@@ -1,6 +1,6 @@
 # 🐍 RL-Snake-Game
 
-An AI-powered twist on the classic Snake game! This project uses **Deep Q-Learning (DQN)** and **PyTorch** to train an autonomous agent to learn how to play Snake — all without human intervention.
+An AI-powered Reinforcement Learning based twist on the classic Snake game! This project uses **Deep Q-Learning (DQN)** and **PyTorch** to train an autonomous agent to learn how to play Snake — all without human intervention.
 
 ## 🚀 Features
 
