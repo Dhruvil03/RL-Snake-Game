@@ -41,6 +41,7 @@ An AI-powered Reinforcement Learning based twist on the classic Snake game! This
 
 ## 📊 Live Training Visualization
 Live plotting of scores and average scores to monitor agent performance throughout training.
+![image](https://github.com/user-attachments/assets/627670df-34c8-4ed2-9aaf-3b4575b0eb95)
 
 
 ## 🛠️ Getting Started
